@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Login</title>
+        <title>Entrar no sistema</title>
     </head>
     <body>
         <form action="fazerLogin.php" method="POST">
